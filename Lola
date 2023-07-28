@@ -1,10 +1,5 @@
-1
-перейти по ссылке https://guru.qahacking.ru/
-
-2
-проверить блоки на главной странице https://guru.qahacking.ru
-
-3
-проверить в футере разделы на обратную связь
-
-Links
+ID  -  MLD-8
+Action  -  проверить блоки на главной странице в хедере https://guru.qahacking.ru
+Expected result- Убедиться что страница соответствует дизайну фигме
+Preconditions - открыть в браузере Microsoft Edge 365 https://guru.qahacking.ru/
+Status-open
